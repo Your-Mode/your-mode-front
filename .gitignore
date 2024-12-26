@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Metro
+metro-bundler-cache/
+*.log
+
+# React Native specific
+ios/build/
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.settings/
+android/app/*.iml
+
+# macOS files
+*.DS_Store
+
+# JetBrains IDE files
+.idea/
+*.iml
+
+# Test coverage
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Others
+expo-debug.log
