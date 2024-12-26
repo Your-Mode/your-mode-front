@@ -1,0 +1,6 @@
+# ninja log v5
+0	11	0	/Users/minsu/Documents/yourmode/android/app/.cxx/Debug/4pf5c46w/armeabi-v7a/CMakeFiles/cmake.verify_globs	e228605edd3e1e6c
+0	1015	1735205007617073952	CMakeFiles/appmodules.dir/Users/minsu/Documents/yourmode/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	bfe11afc74f05784
+0	1150	1735205007752081335	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d5b91da906fb43c5
+1150	1215	1735205007819799986	/Users/minsu/Documents/yourmode/android/app/build/intermediates/cxx/Debug/4pf5c46w/obj/armeabi-v7a/libappmodules.so	876de6583f868620
+0	11	0	/Users/minsu/Documents/yourmode/android/app/.cxx/Debug/4pf5c46w/armeabi-v7a/CMakeFiles/cmake.verify_globs	e228605edd3e1e6c

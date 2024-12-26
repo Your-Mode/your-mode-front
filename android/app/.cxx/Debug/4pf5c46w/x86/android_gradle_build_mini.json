@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "/Users/minsu/Documents/yourmode/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/minsu/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/minsu/Documents/yourmode/android/app/.cxx/Debug/4pf5c46w/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/minsu/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/minsu/Documents/yourmode/android/app/.cxx/Debug/4pf5c46w/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86",
+      "output": "/Users/minsu/Documents/yourmode/android/app/build/intermediates/cxx/Debug/4pf5c46w/obj/x86/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/minsu/.gradle/caches/8.10.2/transforms/8b60b4f75564ac53567672df7a1c9a73/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/minsu/.gradle/caches/8.10.2/transforms/1ae2c2bcce3cae52224b57e1fa01bdc7/transformed/react-android-0.76.5-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/minsu/.gradle/caches/8.10.2/transforms/1ae2c2bcce3cae52224b57e1fa01bdc7/transformed/react-android-0.76.5-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    }
+  }
+}

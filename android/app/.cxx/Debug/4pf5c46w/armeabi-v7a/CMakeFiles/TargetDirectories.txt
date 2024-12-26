@@ -1,0 +1,3 @@
+/Users/minsu/Documents/yourmode/android/app/.cxx/Debug/4pf5c46w/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/minsu/Documents/yourmode/android/app/.cxx/Debug/4pf5c46w/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/minsu/Documents/yourmode/android/app/.cxx/Debug/4pf5c46w/armeabi-v7a/CMakeFiles/rebuild_cache.dir

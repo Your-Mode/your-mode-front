@@ -1,0 +1,6 @@
+# ninja log v5
+1	12	0	/Users/minsu/Documents/yourmode/android/app/.cxx/Debug/4pf5c46w/x86_64/CMakeFiles/cmake.verify_globs	940671a50c60f5e1
+0	1038	1735205012087199621	CMakeFiles/appmodules.dir/Users/minsu/Documents/yourmode/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	a7e3d702c5c4f4ae
+0	1150	1735205012199148688	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d41fed2227c3888d
+1150	1211	1735205012262954820	/Users/minsu/Documents/yourmode/android/app/build/intermediates/cxx/Debug/4pf5c46w/obj/x86_64/libappmodules.so	33f1043407cb0aca
+0	14	0	/Users/minsu/Documents/yourmode/android/app/.cxx/Debug/4pf5c46w/x86_64/CMakeFiles/cmake.verify_globs	940671a50c60f5e1
