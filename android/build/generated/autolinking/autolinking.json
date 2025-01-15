@@ -1,8 +1,101 @@
 {
-  "root": "/Users/minsu/Documents/yourmode",
-  "reactNativePath": "/Users/minsu/Documents/yourmode/node_modules/react-native",
+  "root": "/Users/minsu/Documents/your-mode-front",
+  "reactNativePath": "/Users/minsu/Documents/your-mode-front/node_modules/react-native",
   "reactNativeVersion": "0.76",
-  "dependencies": {},
+  "dependencies": {
+    "react-native-safe-area-context": {
+      "root": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-safe-area-context",
+      "name": "react-native-safe-area-context",
+      "platforms": {
+        "ios": {
+          "podspecPath": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
+          "version": "5.1.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-safe-area-context/android",
+          "packageImportPath": "import com.th3rdwave.safeareacontext.SafeAreaContextPackage;",
+          "packageInstance": "new SafeAreaContextPackage()",
+          "buildTypes": [],
+          "libraryName": "safeareacontext",
+          "componentDescriptors": [
+            "RNCSafeAreaProviderComponentDescriptor",
+            "RNCSafeAreaViewComponentDescriptor"
+          ],
+          "cmakeListsPath": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-screens": {
+      "root": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-screens",
+      "name": "react-native-screens",
+      "platforms": {
+        "ios": {
+          "podspecPath": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-screens/RNScreens.podspec",
+          "version": "4.5.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-screens/android",
+          "packageImportPath": "import com.swmansion.rnscreens.RNScreensPackage;",
+          "packageInstance": "new RNScreensPackage()",
+          "buildTypes": [],
+          "libraryName": "rnscreens",
+          "componentDescriptors": [
+            "RNSFullWindowOverlayComponentDescriptor",
+            "RNSScreenContainerComponentDescriptor",
+            "RNSScreenNavigationContainerComponentDescriptor",
+            "RNSScreenStackHeaderConfigComponentDescriptor",
+            "RNSScreenStackHeaderSubviewComponentDescriptor",
+            "RNSScreenStackComponentDescriptor",
+            "RNSSearchBarComponentDescriptor",
+            "RNSScreenComponentDescriptor",
+            "RNSScreenFooterComponentDescriptor",
+            "RNSScreenContentWrapperComponentDescriptor",
+            "RNSModalScreenComponentDescriptor"
+          ],
+          "cmakeListsPath": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-webview": {
+      "root": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-webview",
+      "name": "react-native-webview",
+      "platforms": {
+        "ios": {
+          "podspecPath": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-webview/react-native-webview.podspec",
+          "version": "13.13.1",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-webview/android",
+          "packageImportPath": "import com.reactnativecommunity.webview.RNCWebViewPackage;",
+          "packageInstance": "new RNCWebViewPackage()",
+          "buildTypes": [],
+          "libraryName": "RNCWebViewSpec",
+          "componentDescriptors": [
+            "RNCWebViewComponentDescriptor"
+          ],
+          "cmakeListsPath": "/Users/minsu/Documents/your-mode-front/node_modules/react-native-webview/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    }
+  },
   "commands": [
     {
       "name": "bundle",
@@ -160,7 +253,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "/Users/minsu/Documents/yourmode"
+          "default": "/Users/minsu/Documents/your-mode-front"
         },
         {
           "name": "--platform <string>",
@@ -445,7 +538,7 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "/Users/minsu/Documents/yourmode/ios",
+      "sourceDir": "/Users/minsu/Documents/your-mode-front/ios",
       "xcodeProject": {
         "name": "yourmode.xcworkspace",
         "path": ".",
@@ -454,7 +547,7 @@
       "assets": []
     },
     "android": {
-      "sourceDir": "/Users/minsu/Documents/yourmode/android",
+      "sourceDir": "/Users/minsu/Documents/your-mode-front/android",
       "appName": "app",
       "packageName": "com.yourmode",
       "applicationId": "com.yourmode",
